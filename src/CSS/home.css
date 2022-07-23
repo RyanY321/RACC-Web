@@ -101,6 +101,10 @@
     }
   }
 
+  .notFound {
+    padding: 5px;
+  }
+
   body {
     background-color: grey;
   }
